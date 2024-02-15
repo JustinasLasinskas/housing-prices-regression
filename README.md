@@ -10,11 +10,11 @@ The dataset used for this analysis is the Boston Housing Dataset, which includes
 
 ### Clone the repository:
 
-`git clone https://github.com/JustinasLasinskas/telco-churn-analysis.git`
+`git clone https://github.com/JustinasLasinskas/housing-prices-regression.git`
 
 ### Navigate to the project directory:
 
-`cd telco-churn-analysis`
+`cd housing-prices-regression`
 
 ### Create a virtual environment (optional but recommended):
 
